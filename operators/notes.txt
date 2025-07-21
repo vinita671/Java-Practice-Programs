@@ -1,0 +1,58 @@
+Operators:
+==========
+-Operators are used to perform operations on Operators.
+-ex:
+    10+20 =30
+
+    Types:
+    -------
+    1.Arithmetic Operators
+    2.Relational Operators
+    3.Logical Operators
+    4.Bitwise Operators
+    5.Assignment Operators
+    6.Conditional Operators
+    7.Increment and Decrement Operators
+
+    1.Arithmetic operations:
+    ---------------------------
+    -Arithmetic Operators are used to perform mathematical operations on operands.
+    - binary operands (bcoz tow operators are required).
+
+    types:
+          + addition
+          - subtraction
+          * multiplication
+          / division-quotient
+          % modulus-remainder
+
+  Note:- + is used for concatenation of strings       
+
+  2. Relational Operators:(Comparison operands)
+  -----------------------------------------------
+   - Relational operands  are used to compare tow operands.
+   - binary operands(bcoz tow operands are required).
+   - returns true or false.(boolean value)
+
+types:
+== equle
+!= not equal to
+> greater than
+< less than
+>= greater than or equal to
+<= leaa than or equal to 
+
+5.Assignment Operators:(Compound Assignment Operators)
+--------------------------------------------------------
+
+  - Assignment Operators used to perform operands
+    and assing to a reference
+    
+  - binary operands
+
+
+  += addition
+  -= subtraction
+  *= multiplication
+  /= division(quotient)
+  %= division (remainder)  
